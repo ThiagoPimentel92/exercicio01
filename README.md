@@ -13,7 +13,7 @@ git config --global user.name "Thiago.pmentel"
 
 ### Configura o email de usuário global ###
 
-git config --global user.email "thiago.pimentel@gmail.com"
+git config --global user.email "thiago.pimentel92@gmail.com"
 
 ### Criacao repositorio ###
 
